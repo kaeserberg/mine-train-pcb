@@ -1,0 +1,7 @@
+/*-backups
+/production
+*-bak
+fp-info-cache
+*.log
+*.lck
+*.bak
